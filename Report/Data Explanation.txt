@@ -1,1 +1,4 @@
 The main source of information that has been used in the attempt to solve the previously mentioned traffic issues is a database of traffic incidents of the city of Seattle. This database consist of almost 200000 traffic incidents that were recorded alongside 37 features of information about each of them, inside the "information" can be found the "degree" of severity of the incidents, the location, the number of people involved in the incident, the weather, the condition of the road, etc. Some of these attributes may be relevant for the purpose of the project and others may not.
+
+	SEVERITYCODE	INCDTTM	LOCATION	COLLISIONTYPE	PERSONCOUNT	VEHCOUNT
+0	2	3/27/2013 2:54:00 PM	5TH AVE NE AND NE 103RD ST	Angles	2	2
