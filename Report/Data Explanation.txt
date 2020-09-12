@@ -1,1 +1,1 @@
-The main source of information that has been used in the attempt to solve the previously mentioned traffic issues is a database of traffic incidents of the city of Seattle.
+The main source of information that has been used in the attempt to solve the previously mentioned traffic issues is a database of traffic incidents of the city of Seattle. This database consist of 
